@@ -83,12 +83,12 @@ export const navItems: NavItem[] = [
       {
         title: 'Deposits',
         url: '/dashboard/payments/deposits',
-        icon: 'arrowDown'
+        icon: 'dollarSign'
       },
       {
         title: 'Withdrawals',
         url: '/dashboard/payments/withdrawals',
-        icon: 'arrowUp'
+        icon: 'banknote'
       }
     ]
   },
